@@ -1,8 +1,11 @@
-# Title
+# Powershell Reference
 
-## Subtitle
+## Git Setup
 
-This is some code
+Set email
 ```
 git config --global user.email "SR@example.com"
+
+Set username
+```
 git config --global user.name "SR"
