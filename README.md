@@ -9,7 +9,7 @@ This respository containes a reference for Powershell commands and script exampl
 - [x] Script: Date & Time management
 - [x] Publish public GitHub repository
 - [x] Add @viscount-monty as contributor
-- [ ] Close issue #1
+- [x] Close issue #1
 - [ ] Script: Networking - list hostname, IP, MAC etc
 
 ## Installation and Setup
